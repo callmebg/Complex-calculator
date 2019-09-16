@@ -1,0 +1,14 @@
+项目功能：
+	进行复数的四则运算，支持括号
+开发技术：
+	c++、qt5
+模块说明：
+	calculator.cpp calculator.h 对表达式进行计算并输出结果 
+	element.cpp element.h 抽象数据结构
+	main.cpp mainwindow.cpp mainwindow.h mainwindow.ui 界面设计
+项目测试：
+	打开文件夹“源代码”，在安装了qt5环境后，打开mycalculator.pro，进行调试
+	目前还未发现bug
+开发感想及评价：
+	做界面做的挺麻烦的，并且生成的文件好大，还要配置好多环境才能运行
+	学好算法和数据结构还是挺重要的
