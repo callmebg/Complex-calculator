@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="..\build-mycalculator-Desktop_Qt_5_11_1_MSVC2017_64bit-Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="mainwindow.h">
+      <Filter>Generated Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="ui_mainwindow.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\0.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\00.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\11.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\22.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\3.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\33.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\4.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\44.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\5.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\55.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\6.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\66.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\7.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\77.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\8.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\88.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\9.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icons\99.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="icons.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="main.cpp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="mainwindow.cpp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtMoc Include="mainwindow.h">
+      <Filter>Resource Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+</Project>

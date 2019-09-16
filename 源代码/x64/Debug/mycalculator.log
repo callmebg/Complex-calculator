@@ -1,0 +1,1 @@
+﻿C:\Users\dell\AppData\Local\QtMsBuild\qt_globals.targets(124,7): error MSB4094: “mainwindow.h;mainwindow.h”对于“GetItemHash”任务的“Item”参数是无效值。不能将多个项传入“Microsoft.Build.Framework.ITaskItem”类型的参数。
