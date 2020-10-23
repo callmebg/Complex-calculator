@@ -1,7 +1,7 @@
 # Complex-calculator
 复数计算器，可用于复数的加减乘除。用qt5写的界面
 
-![alt](https://pic2.zhimg.com/80/v2-21cde9cd0d6776554991991f4820231c_hd.jpg "")
+![image](https://img-blog.csdnimg.cn/20190916205858316.png)
 
 ***
 
